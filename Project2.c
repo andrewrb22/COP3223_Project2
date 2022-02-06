@@ -127,9 +127,6 @@ int main()
 printf("\nSorry invalid entry! Try again. Goodbye!\n");
 
 printf("\n-----------------------------\n");
-
-
-
         }
 
      break;   
