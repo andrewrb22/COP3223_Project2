@@ -78,7 +78,6 @@ int main()
 
     printf("CRN\tCredit Hours\n");
 
-
     // display the health and id fee
 
     printf("Health & ID Fees \t$%.2f", healthAndIDFee);
